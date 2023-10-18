@@ -1,0 +1,20 @@
+body {
+    background: #fff;
+}
+
+main img {
+    width: 50px;
+    float: left;
+}
+
+div {
+    display: flex;
+    font-family: Liberation Sans, sans-serif;
+    font-weight: 300;
+    }
+
+main img:hover {
+    color: #eb5959;
+    transition: transform .4s ease;
+    transform: scale(1.1)
+}
