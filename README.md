@@ -1,4 +1,2 @@
 # webproject2.0
-Static website with information about you
-
-TODO
+Static website in the style of an old TV screen
